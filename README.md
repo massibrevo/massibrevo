@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @massibrevo
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I’m currently learning Python, R, SQL
 - 📫 How to reach me massibrevo@gmail.com
 
 <!---
