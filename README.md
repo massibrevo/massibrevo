@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @massibrevo
-- 👀 Data Science and Machine Learning Student. Passionate about Geospatial Data and DeepLearning.
+- 👀 Data Analyst and Data Science and Machine Learning Student.
 - 📫 How to reach me massibrevo@gmail.com
 
 <!---
