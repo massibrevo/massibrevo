@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @massibrevo
-- 👀 Data Analyst and Data Science & Machine Learning Student.
+- 👀 Data Analyst/Ops Manager is my role.. I'm also Data Science & Machine Learning Student.
 - 📫 How to reach me massibrevo@gmail.com
 
 <!---
