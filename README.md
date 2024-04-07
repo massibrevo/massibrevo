@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @massibrevo
-- 👀 Data Analyst/Data Scientist is my role.. I'm also a Mathematical Engineering Student.
 - 📫 How to reach me massibrevo@gmail.com
 
 <!---
