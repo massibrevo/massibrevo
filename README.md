@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @massibrevo
-- 📫 How to reach me massibrevo@gmail.com
+### Hi, I'm Max.
 
-<!---
-massibrevo/massibrevo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data & AI Engineer. Founder. Curious by default.
+
+Building things at the intersection of
+**software, data and intelligence.**
+
+- Interested in Data, AI, distributed systems and computer science.
+- Based in Barcelona, Spain.
+
+---
+
+*Keep learning. Keep building.*
