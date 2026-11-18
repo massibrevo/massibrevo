@@ -5,7 +5,7 @@ Data & AI Engineer. Founder. Curious by default.
 Building things at the intersection of
 **software, data and intelligence.**
 
-- Interested in Data, AI, distributed systems and computer science.
+- Interested in Data, AI, computer science & engineering.
 - Based in Barcelona, Spain.
 
 ---
