@@ -1,11 +1,9 @@
 ### Hi, I'm Max.
 
-Data & AI Engineer. Founder. Curious by default.
-
 Building things at the intersection of
 **software, data and intelligence.**
 
-- Interested in Data, AI, computer science & engineering.
+- Interested in Data, AI, Computer Science & Engineering.
 - Based in Barcelona, Spain.
 
 ---
